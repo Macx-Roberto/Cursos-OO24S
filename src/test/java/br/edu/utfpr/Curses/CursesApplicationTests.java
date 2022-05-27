@@ -1,10 +1,10 @@
-package br.edu.utfpr.Cursos;
+package br.edu.utfpr.Curses;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CursosApplicationTests {
+class CursesApplicationTests {
 
 	@Test
 	void contextLoads() {
